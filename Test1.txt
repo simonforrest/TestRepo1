@@ -1,1 +1,1 @@
-This is the first test document.
+This is the first test document. Now with a newline.
